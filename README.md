@@ -20,6 +20,31 @@ The project combines **database design, performance optimization, and business i
 
 ---
 
+## 📊 ERD & Database Design
+
+
+
+### Entity Relationship Diagram
+![ERD](./Diagrams/Project%20ERD%20(7).jpg)
+
+### Mapping 
+![Mapping](./Diagrams/Telecom%20Mapping.drawio.png)
+
+
+
+**Core Entities**
+- Customers  
+- SIM_Card  
+- ServicePlan  
+- Subscription  
+- Usage_Records  
+- Payment  
+- Complaint  
+- Employee  
+- Department  
+
+---
+
 ## 🎯 Business Objectives
 
 - Monitor customer activity and engagement  
@@ -54,32 +79,7 @@ The project combines **database design, performance optimization, and business i
 - Analyze employee workload
 - Identify customers with repeated complaints
 
----
 
-## 📊 ERD & Database Design
-
-
-
-### Entity Relationship Diagram
-![ERD](./Diagrams/Project%20ERD%20(7).jpg)
-
-### Mapping 
-![Mapping](./Diagrams/Telecom%20Mapping.drawio.png)
-
-
-
-**Core Entities**
-- Customers  
-- SIM_Card  
-- ServicePlan  
-- Subscription  
-- Usage_Records  
-- Payment  
-- Complaint  
-- Employee  
-- Department  
-
----
 
 ## ⚙ SQL Implementation
 
@@ -171,6 +171,7 @@ Operational monitoring tasks:
 
 **Mohamed Atef**  
 ITI Trainee – Database / Data Track
+
 
 
 
