@@ -45,10 +45,6 @@ The project combines **database design, performance optimization, and business i
 
 ### Usage Monitoring
 - Track Minutes, SMS, and Data usage
-- Calculate:
-  - Total usage
-  - Remaining quota
-  - Extra charges
 - Identify:
   - Over-limit subscriptions
   - Low remaining balance customers
@@ -93,8 +89,7 @@ The project combines **database design, performance optimization, and business i
 - Determine subscription status  
 - Total usage (Minutes / SMS / Data)  
 - Remaining usage  
-- Over-limit detection  
-- Extra charges calculation  
+- Over-limit detection   
 - Subscription duration  
 - Total revenue per subscription  
 
@@ -177,5 +172,6 @@ Operational monitoring tasks:
 
 **Mohamed Atef**  
 ITI Trainee – Database / Data Track
+
 
 
