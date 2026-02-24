@@ -58,8 +58,7 @@ The project combines **database design, performance optimization, and business i
 
 ## 📊 ERD & Database Design
 
-<details>
-<summary>Click to view diagrams</summary>
+
 
 ### Entity Relationship Diagram
 ![ERD](./Diagrams/Project%20ERD%20(7).jpg)
@@ -67,7 +66,7 @@ The project combines **database design, performance optimization, and business i
 ### Mapping 
 ![Mapping](./Diagrams/Telecom%20Mapping.drawio.png)
 
-</details>
+
 
 **Core Entities**
 - Customers  
@@ -172,6 +171,7 @@ Operational monitoring tasks:
 
 **Mohamed Atef**  
 ITI Trainee – Database / Data Track
+
 
 
 
