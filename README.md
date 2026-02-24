@@ -64,7 +64,7 @@ The project combines **database design, performance optimization, and business i
 ### Entity Relationship Diagram
 ![ERD](./Diagrams/Project%20ERD%20(7).jpg)
 
-### Mapping (Logical Schema)
+### Mapping 
 ![Mapping](./Diagrams/Telecom%20Mapping.drawio.png)
 
 </details>
@@ -172,6 +172,7 @@ Operational monitoring tasks:
 
 **Mohamed Atef**  
 ITI Trainee – Database / Data Track
+
 
 
 
